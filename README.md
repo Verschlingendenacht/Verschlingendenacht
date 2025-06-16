@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">22 years old Colombian man enrolled in Data Science Engineering. Startup co-founder and freelance backend developer.<br>Enthusiast about: Transhumanism, AGI and ASI, Linear Algebra, Astroinformatics, Data Pipelines, Web Services and Computer Networks.<br>Personal Interest: Strategy games, Simulators, Virtual Reality, Neuroscience, Nuclear Technology, Spacecrafting, Hard Sci-fi,  CRISPR, Goth Scene and Aesthetics.<br>Wants to learn: Mathematics, Spring Implementations, Data Driven Applications, Agentic AI Implementations, Game Theory, Economics.</p>
+<p align="left">22 years old Colombian man enrolled in Data Science Engineering. Startup founder and freelance backend developer.<br>Enthusiast about: Transhumanism, AGI and ASI, Linear Algebra, Astroinformatics, Data Pipelines, Web Services and Computer Networks.<br>Personal Interest: Strategy games, Simulators, Virtual Reality, Neuroscience, Nuclear Technology, Spacecrafting, Hard Sci-fi,  CRISPR, Goth Scene and Aesthetics.<br>Wants to learn: Mathematics, Spring Implementations, Data Driven Applications, Agentic AI Implementations, Game Theory, Economics.</p>
 
 ###
 
