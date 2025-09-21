@@ -1,4 +1,4 @@
-<h2 align="left">Wsup  🧛‍♂️ ... AK here, nice to see you around 🦇 </h2>
+<h2 align="left">👨‍💻  Alex Kreutzer 🎓</h2>
 
 ###
 
@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">casual Colombian man enrolled in Data Engineering. Startup founder and freelance backend developer.<br>Enthusiast about: Transhumanism, AGI and ASI, Astroinformatics and Computer Networks.<br>Research Interests: Strategy games, Simulators, Virtual Reality, VR Haptic Suits Integrations, Neuroscience, Spacecrafting, Hard Sci-fi,  CRISPR, Cybergoth Scene and Aesthetics.<br>Currently Studying: Mathematics, Spring Implementations, Data Driven Applications, Agentic AI Implementations, Game Theory.</p>
+<p align="left">Freelance backend developer currently enrolled in Data Engineering.</p>
+<p align="left">currently working with Spring, Spring Boot, Postgress, Python, HTML/CS/JS.</p>
+<p align="left">currently learning about TypeScript, React.</p>
+<p align="left">wants to learn about ETL, data pipelines, Dokers, Kubernetes, Jenkins, JUnit</p>
 
 ###
 
