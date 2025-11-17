@@ -9,9 +9,8 @@
 ###
 
 <p align="left">Freelance backend developer currently enrolled in Data Engineering.</p>
-<p align="left">currently working with Spring, Spring Boot, Postgress, Python, HTML/CS/JS.</p>
+<p align="left">currently working on Spring, Spring Boot, Postgress, Python, HTML/CS/JS.</p>
 <p align="left">currently learning about TypeScript, React.</p>
-<p align="left">wants to learn about ETL, data pipelines, Dokers, Kubernetes, Jenkins, JUnit</p>
 
 ###
 
