@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Freelance backend developer currently enrolled in Data Engineering.</p>
+<p align="left">Freelance developer currently enrolled in Data Engineering.</p>
 <p align="left">working on Spring, Spring Boot, Postgress, Python, HTML/CS/JS.</p>
 <p align="left">learning about TypeScript, React.</p>
 
