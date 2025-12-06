@@ -60,11 +60,4 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/f3/b1/09/f3b10989c983c7d4b025fd1d915fbea6.gif"  />
-</div>
-
-###
-
-###
 
